@@ -1,0 +1,110 @@
+[
+  {
+    "full_name": "Жигайлов Павел Романович",
+    "job_title": "Техник",
+    "work_phone": "25404",
+    "mobile_phone": "79963805699",
+    "work_email": "p.r.zhigailov@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных 22/1, каб. 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Абрамов Михаил Вячеславович",
+    "job_title": "Техник",
+    "work_phone": "25463",
+    "mobile_phone": "8(913)721-15-46",
+    "work_email": "m.v.abramov@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных 22/1, каб. 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Агишев Владимир Игоревич",
+    "job_title": "Техник",
+    "work_phone": "25450",
+    "mobile_phone": "9963770650",
+    "work_email": "v.i.agishev@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных 22/1, каб. 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Данилова Софья Алексеевна",
+    "job_title": "Ведущий техник",
+    "work_phone": "25400, 25444",
+    "mobile_phone": "+7 996 380 79 50, тг - @oxxmag",
+    "work_email": "s.a.danilova@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных 22/1, каб. 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Лебедев Владислав Валерьевич",
+    "job_title": "Ведущий диспетчер",
+    "work_phone": "25434, 25401, 25455",
+    "mobile_phone": "",
+    "work_email": "v.v.lebedev@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных 22/1, каб. 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Несин Данила Викторович",
+    "job_title": "Инженер",
+    "work_phone": "45454",
+    "mobile_phone": "8 (903) 903 97 28, в чате НТК: https://zulip.ntk.novotelecom.ru/",
+    "work_email": "d.v.nesin@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных, 22/1, 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Одиашвили Владислав Алексеевич",
+    "job_title": "Инженер",
+    "work_phone": "25846",
+    "mobile_phone": "8 (953) 805-35-45",
+    "work_email": "v.a.odiashvili@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных 22/1, каб. 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Эйманис Олег Иванович",
+    "job_title": "Инженер категории 1",
+    "work_phone": "45752",
+    "mobile_phone": "+79537787767 ТГ: @NetRedi",
+    "work_email": "o.i.aimanis@novotelecom.ru",
+    "address": "ул. Семьи Шамшиных, 22/1, 302",
+    "supervisor": "Поплавский Павел Васильевич"
+  },
+  {
+    "full_name": "Алипатов Михаил Алексеевич",
+    "job_title": "Ведущий программист 1С",
+    "work_phone": "25419, 25433",
+    "mobile_phone": "88002000600",
+    "work_email": "m.a.alipatov@novotelecom.ru",
+    "address": "ул. С.Шамшиных, 22/1, каб. 302",
+    "supervisor": ""
+  },
+  {
+    "full_name": "Поплавский Павел Васильевич",
+    "job_title": "Руководитель отдела обеспечения офисной инфраструктуры",
+    "work_phone": "25480",
+    "mobile_phone": "+7-923-777-44-64, 8-(383)-209-00-68 доб. 25480",
+    "work_email": "p.v.poplavskiy@novotelecom.ru",
+    "address": "Семьи Шамшиных, 22/1 - 302",
+    "supervisor": "Милахин Дмитрий Анатольевич"
+  },
+  {
+    "full_name": "Быков Андрей Сергеевич",
+    "job_title": "Инженер облачных систем",
+    "work_phone": "",
+    "mobile_phone": "Telegram: @Bykov_A_S",
+    "work_email": "a.s.bykov@novotelecom.ru",
+    "address": "ул. С.Шамшиных, 22/1, каб. 302",
+    "supervisor": ""
+  },
+  {
+    "full_name": "Дерябин Александр Николаевич",
+    "job_title": "Инженер информационных систем категории 3",
+    "work_phone": "",
+    "mobile_phone": "8-952-920-91-66",
+    "work_email": "a.n.deryabin@novotelecom.ru",
+    "address": "ул. Депутатская, 46, этаж 6",
+    "supervisor": ""
+  }
+]
