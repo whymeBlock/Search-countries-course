@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2576450-4b9d-4a76-a31d-a1c0dafff845" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Controls.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomSelect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
@@ -57,7 +63,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "settings.editor.selected.configurable": "editing.templates",
     "ts.external.directory.path": "/opt/WebStorm-232.9921.42/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -127,7 +133,8 @@
       <workItem from="1704469669586" duration="404000" />
       <workItem from="1704728564450" duration="4114000" />
       <workItem from="1705476248318" duration="370000" />
-      <workItem from="1705476891538" duration="5267000" />
+      <workItem from="1705476891538" duration="9419000" />
+      <workItem from="1705550881539" duration="4658000" />
     </task>
     <servers />
   </component>
